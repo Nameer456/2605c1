@@ -1,1 +1,3 @@
-git status
+super store
+welcome to our website
+
